@@ -13,13 +13,13 @@
 
 -❌ Custo de Viagem;
 
--❌ Empréstimo;
+-🟩 Empréstimo;
 
--❌ Alistamento Militar;
+-🟩 Alistamento Militar;
 
 -❌ Calculadora de IMC;
 
--❌ Gerenciador de Pagamentos;
+-🟩 Gerenciador de Pagamentos;
 
 -❌ Tabuada de Multiplicação;
 
