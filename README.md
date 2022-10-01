@@ -3,11 +3,11 @@
 
 -🟩 Cálculo de Notas;
 
--❌ Conversor de Medidas;
+-🟩 Conversor de Metros;
 
 -❌ Conversor de Temperatura;
 
--❌ Aluguel de Carros;
+-🟩 Aluguel de Carros;
 
 -❌ Analisador de Textos;
 
